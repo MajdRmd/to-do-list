@@ -1,4 +1,3 @@
-<script>
 
         const newTaskInput = document.getElementById("new-task");
         const addButton = document.getElementById("add-button");
@@ -61,4 +60,4 @@
                 newTaskInput.focus();
             }
         }
-    </script>
+    
